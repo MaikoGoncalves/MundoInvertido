@@ -1,13 +1,6 @@
 <p align="center">
-    <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
-</p>
-
-
-<p align="center">
     <img width="300" src="https://github.com/MaikoGoncalves/MundoInvertido/blob/46f148499fb2acb76ea6d392e60e503df733c70a/assets/images/banner/logo.svg">
 </p>
-
-
 
 -------
 Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
